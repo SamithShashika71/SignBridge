@@ -69,22 +69,20 @@ You can interact with the full prototype and test UI flows directly.
 
 ## 🚀 How to Run / Setup  
 
-1. Backend (Gesture Recognition API)  
+### 1. Backend (Gesture Recognition API)  
         ```bash
         cd backend
         pip install -r requirements.txt
         python api.py         # Starts Flask server for real-time inference
 
----
 
-2. Flutter Mobile App
+### 2. Flutter Mobile App
         cd mobile_app
         flutter pub get
         flutter run           # Runs the app on connected device / emulator
 
----
 
-3. Avatar Animations
+### 3. Avatar Animations
         assets/avatar/
 
 ---
@@ -109,20 +107,20 @@ You can interact with the full prototype and test UI flows directly.
 
 ### 👥 Team — Group 36
 
-Name	                            Role / Contribution
------------------------------------------------------------------------------------------------------
-P.B.B. Balasuriya (22UG1-0463) -	Dataset creation, preprocessing, and MediaPipe landmark extraction.
-                                  LSTM model training and optimization.
-                                  Flask backend development and integration.
-
-
-U.S. Shashika (22UG1-0495)	   -  Mobile UI/UX design, select color themes and olayouts. 
-                                  App logo design, creation and Flutter app development.
-                                  Assisted with avatar pose correction and animation adjustments.
-
-U.R. Samarappuli (22UG1-0465)	 -  Designed and rigged the 3D avatar in Blender.
-                                  created SLSL gesture animations and integrated avatar system .
-                                  Supported Flutter app development.
+        Name	                          Role / Contribution
+        -----------------------------------------------------------------------------------------------------
+        P.B.B. Balasuriya (22UG1-0463) -  Dataset creation, preprocessing, and MediaPipe landmark extraction.
+                                          LSTM model training and optimization.
+                                          Flask backend development and integration.
+        
+        
+        U.S. Shashika (22UG1-0495)     -  Mobile UI/UX design, select color themes and olayouts. 
+                                          App logo design, creation and Flutter app development.
+                                          Assisted with avatar pose correction and animation adjustments.
+        
+        U.R. Samarappuli (22UG1-0465)	- Designed and rigged the 3D avatar in Blender.
+                                          created SLSL gesture animations and integrated avatar system .
+                                          Supported Flutter app development.
 
 Supervisor: Ms. Nilupuli Ekanayake
 
