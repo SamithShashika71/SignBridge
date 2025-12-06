@@ -61,45 +61,35 @@ This is **Sri Lanka’s first mobile application** to support *both* real-time S
 
 ## 🔄 Figma Prototype — UI / UX Design  
 
-<iframe  
-  src="https://embed.figma.com/design/7mUHZcsbdboePbW8VL9qIq?embed-host=signbridge"  
-  style="border:1px solid rgba(0,0,0,0.1);"  
-  width="100%"  
-  height="600px"  
-  allowfullscreen>  
-</iframe>
-
 You can interact with the full prototype and test UI flows directly.  
-If embed fails (due to GitHub restrictions), use this link:  
 [View the SignBridge Figma Prototype →](https://www.figma.com/design/7mUHZcsbdboePbW8VL9qIq?node-id=0-1)
 
-> ℹ️ Note: For public visibility of embedded prototypes, ensure the Figma file sharing settings are set to “Anyone with link can view.” :contentReference[oaicite:2]{index=2}
 
 ---
 
 ## 🚀 How to Run / Setup  
 
-### 1. Backend (Gesture Recognition API)  
-```bash
-cd backend
-pip install -r requirements.txt
-python api.py         # Starts Flask server for real-time inference
+1. Backend (Gesture Recognition API)  
+        ```bash
+        cd backend
+        pip install -r requirements.txt
+        python api.py         # Starts Flask server for real-time inference
 
 ---
 
-### 2. Flutter Mobile App
-cd mobile_app
-flutter pub get
-flutter run           # Runs the app on connected device / emulator
+2. Flutter Mobile App
+        cd mobile_app
+        flutter pub get
+        flutter run           # Runs the app on connected device / emulator
 
 ---
 
-### 3. Avatar Animations
-assets/avatar/
+3. Avatar Animations
+        assets/avatar/
 
 ---
 
-✅ Achievements & Impact
+### ✅ Achievements & Impact
 
 * First SLSL translator app combining real-time recognition + avatar-based reverse translation.
 * Demonstrated success in departmental demo/testing.
@@ -107,7 +97,7 @@ assets/avatar/
 
 ---
 
-🔮 Future Enhancements
+### 🔮 Future Enhancements
 
 * Expand Dataset: Include more signers, lighting conditions, and backgrounds to improve accuracy.
 * Larger Vocabulary: Add more signs and support sentence-level recognition.
@@ -117,7 +107,7 @@ assets/avatar/
 
 ---
 
-👥 Team — Group 36
+### 👥 Team — Group 36
 
 Name	                            Role / Contribution
 -----------------------------------------------------------------------------------------------------
@@ -137,6 +127,7 @@ U.R. Samarappuli (22UG1-0465)	 -  Designed and rigged the 3D avatar in Blender.
 Supervisor: Ms. Nilupuli Ekanayake
 
 ---
-🪪 License
+
+### 🪪 License
 
 This project is licensed under the MIT License.
