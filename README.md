@@ -133,7 +133,7 @@ This project is licensed under the MIT License.
 
 ---
 
-🙌 Credits
+### 🙌 Credits
 
 Developed by Team SignBridge (Group 36) to advance accessibility through AI-powered Sri Lankan Sign Language recognition and interactive 3D avatar visualization.
 
