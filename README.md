@@ -130,3 +130,11 @@ Supervisor: Ms. Nilupuli Ekanayake
 ### 🪪 License
 
 This project is licensed under the MIT License.
+
+---
+
+🙌 Credits
+
+Developed by Team SignBridge (Group 36) to advance accessibility through AI-powered Sri Lankan Sign Language recognition and interactive 3D avatar visualization.
+
+Built with ❤️ using Flutter, MediaPipe, LSTM deep learning, Flask, and 3D animation technologies.
