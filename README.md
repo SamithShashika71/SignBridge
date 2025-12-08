@@ -5,7 +5,7 @@ SignBridge is an AI-powered **two-way communication mobile application** designe
 
 It provides **real-time Sign-to-Text** and **Text-to-Sign** translation using **AI-powered gesture recognition**, **LSTM models**, and a **3D animated avatar** to display SLSL gestures accurately.
 
-This is **Sri Lanka’s first mobile application** to support *both* real-time SLSL gesture recognition and 3D avatar-based reverse translation.
+This is **Sri Lanka’s first mobile application** to support both real-time SLSL gesture recognition and 3D avatar-based reverse translation.
 
 ---
 
